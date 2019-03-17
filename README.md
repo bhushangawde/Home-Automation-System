@@ -3,7 +3,7 @@
 This project is based on Internet Of Things.
 
 # Steps
-Th
+
 We used Arduino Uno hardware board for the project.
 
 1. Temperature and Humidity sensors were used for getting the respective values from the surrounding in real time. They were attached at the input pin of microcontroller ATMega328 present on the Arduino Uno board.
